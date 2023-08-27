@@ -7,8 +7,8 @@ This project is designed to scrape data from the Amsterdam Schoolwijzer website.
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/sernaleon/AmsterdamSchoolwijzerDownloader.git
-    cd AmsterdamSchoolwijzerDownloader
+    git clone https://github.com/sernaleon/schoolwijzer.git
+    cd schoolwijzer
 ```
 
 2. Install dependencies:

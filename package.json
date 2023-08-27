@@ -1,5 +1,5 @@
 {
-  "name": "amsterdam-schoolwijzer-downloader",
+  "name": "schoolwijzer",
   "version": "1.0.0",
   "description": "This project is designed to scrape data from the Amsterdam Schoolwijzer website. It fetches details of various kinderopvang (childcare) facilities and then augments this data with distance and duration details from a specific address using the Google Maps API.",
   "main": "index.js",
